@@ -3,7 +3,7 @@ I'm DevOps Engineer
 
 ### Connect with me
 - [My Web Site](https://furkan.io)
-- [Linkedin](https://www.linkedin.com/in/furkans/)
+- [Linkedin](https://www.linkedin.com/in/frknsntrk)
 - [Stackoverflow](https://stackoverflow.com/users/14972999)
 
 ### Stats:
