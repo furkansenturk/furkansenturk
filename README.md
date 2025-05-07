@@ -2,9 +2,7 @@
 I'm DevOps Engineer
 
 ### Connect with me
-- [My Web Site](https://furkan.io)
-- [Linkedin](https://www.linkedin.com/in/frknsntrk)
-- [Stackoverflow](https://stackoverflow.com/users/14972999)
+- [My Web Site](https://furkansenturk.com)
 
 ### Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkansenturk&hide_progress=true)
